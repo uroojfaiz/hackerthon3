@@ -441,10 +441,7 @@ body{
 .foot4,
 .foot5,
 .foot{
-    width: 50px;
-    margin: auto;
-    font-size: 14px;
-    overflow-x: hidden;
+   display: none;
    
 }
 .sub-img{
