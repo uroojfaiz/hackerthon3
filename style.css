@@ -444,6 +444,7 @@ body{
     width: 50px;
     margin: auto;
     font-size: 14px;
+    overflow-x: hidden;
    
 }
 .sub-img{
